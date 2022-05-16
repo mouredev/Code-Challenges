@@ -7,11 +7,15 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 
 * Seguimiento en conjunto por toda la comunidad.
 * Canales de chat en Discord.
-* Revisión de los retos en Twich.
+* Revisión de los retos en Twitch.
 * Consulta de las soluciones de la comunidad.
 * **¡Y PUEDES USAR CUALQUIER LENGUAJE!**
 
 ## Retos semanales 2022
+
+<a href="https://youtu.be/14v4IINunvY"><img src="http://i3.ytimg.com/vi/14v4IINunvY/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+*Vídeo explicación*
 
 ### Listado de retos
 * **#0** - 27/12/21 - `EL FAMOSO "FIZZ BUZZ"`
@@ -34,7 +38,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#17** - 25/04/22 - `LA CARRERA DE OBSTÁCULOS`
 * **#18** - 02/05/22 - `TRES EN RAYA`
 * **#19** - 09/05/22 - `CONVERSOR TIEMPO`
-* **#20** - 16/05/22 - `Publicación nuevo reto...`
+* **#20** - 16/05/22 - `PARANDO EL TIEMPO`
+* **#21** - 23/05/22 - `Publicación nuevo reto...`
 
 Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kotlin ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
@@ -45,6 +50,10 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kot
 [![Retos Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Repositorio%20público%20retos%20Swift/iOS&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
 ## Retos mensuales 2022
+
+<a href="https://youtu.be/TSMFijaJwpE"><img src="http://i3.ytimg.com/vi/TSMFijaJwpE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+*Vídeo explicación*
 
 ### Listado de retos
 * **Enero** - 03/01/22 - `CONECTA 4`
