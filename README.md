@@ -40,7 +40,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#19** - 09/05/22 - `CONVERSOR TIEMPO`
 * **#20** - 16/05/22 - `PARANDO EL TIEMPO`
 * **#21** - 23/05/22 - `CALCULADORA .TXT` 
-* **#22** - 01/06/22 - `Publicación nuevo reto...`
+* **#22** - 01/06/22 - `CONJUNTOS` 
+* **#23** - 07/06/22 - `Publicación nuevo reto...`
 
 Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kotlin ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
