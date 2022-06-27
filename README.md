@@ -44,7 +44,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#23** - 07/06/22 - `MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO` 
 * **#24** - 13/06/22 - `ITERATION MASTER` 
 * **#25** - 20/06/22 - `PIEDRA, PAPEL, TIJERA` 
-* **#26** - 27/06/22 - `Publicación nuevo reto...`
+* **#26** - 27/06/22 - `CUADRADO Y TRIÁNGULO 2D` 
+* **#27** - 07/07/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
