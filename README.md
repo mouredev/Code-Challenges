@@ -72,7 +72,8 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kot
 * **Abril** - 31/03/22 - `POMODORO`
 * **Mayo** - 03/05/22 - `JUEGO DE MEMORIA`
 * **Junio** - 31/05/22 - `CLONANDO TWITTER`
-* **Julio** - 28/06/22 - `Publicación nuevo reto...`
+* **Julio** - 28/06/22 - `LECTOR RSS`
+* **Agosto** - 02/08/22 - `Publicación nuevo reto...`
 
 > Cada mes corrección en directo desde Twitch del reto semanal.
 > 
