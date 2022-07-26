@@ -48,7 +48,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#27** - 07/07/22 - `VECTORES ORTOGONALES`
 * **#28** - 11/07/22 - `MÁQUINA EXPENDEDORA`
 * **#29** - 18/07/22 - `ORDENA LA LISTA`
-* **#30** - 26/07/22 - `Publicación nuevo reto...`
+* **#30** - 26/07/22 - `MARCO DE PALABRAS`
+* **#31** - 01/08/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -71,7 +72,7 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kot
 ### Listado de retos
 * **Enero** - 03/01/22 - `CONECTA 4`
 * **Febrero** - 03/02/22 - `ENCICLOPEDIA STAR WARS`
-* **Marzo** - 03/03/22 - `CUESTIONARIO CONTRARELOJ`
+* **Marzo** - 03/03/22 - `CUESTIONARIO CONTRARRELOJ`
 * **Abril** - 31/03/22 - `POMODORO`
 * **Mayo** - 03/05/22 - `JUEGO DE MEMORIA`
 * **Junio** - 31/05/22 - `CLONANDO TWITTER`
