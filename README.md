@@ -49,11 +49,16 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#28** - 11/07/22 - `MÁQUINA EXPENDEDORA`
 * **#29** - 18/07/22 - `ORDENA LA LISTA`
 * **#30** - 26/07/22 - `MARCO DE PALABRAS`
-* **#31** - 01/08/22 - `Publicación nuevo reto...`
+* **#31** - 01/08/22 - `AÑOS BISIESTOS`
+* **#32** - 08/08/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-*Corección retos del 1 al 5 en vídeo*
+*Corección retos del 0 al 4 en vídeo*
+
+<a href="https://youtu.be/Y_Gej0lbfD0"><img src="http://i3.ytimg.com/vi/Y_Gej0lbfD0/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+*Corección retos del 5 al 10 en vídeo*
 
 Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kotlin ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
