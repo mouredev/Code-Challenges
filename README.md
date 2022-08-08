@@ -1,7 +1,6 @@
 # Retos de programación
 ## Repositorios de desafíos de código de la comunidad **[MoureDev](https://moure.dev)**.
-
-![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
+### Todos nuestros retos en **[retosdeprogramacion.com](https://retosdeprogramacion.com/)**
 
 Participa en los retos que realizamos semana a semana y mes a mes para mejorar nuestras habilidades en programación. Por supuesto, puedes participar en todos los retos de semanas y meses anteriores ya que se trata de que te sirvan para practicar y crear un **PORTFOLIO** potente.
 
@@ -12,6 +11,12 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **¡Y PUEDES USAR CUALQUIER LENGUAJE!**
 
 ## Retos semanales 2022
+
+> Cada lunes corrección en directo desde Twitch del reto semanal.
+
+[![Retos Semanales](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Repositorio%20retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+
+[![Retos Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Repositorio%20retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
 <a href="https://youtu.be/14v4IINunvY"><img src="http://i3.ytimg.com/vi/14v4IINunvY/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -50,25 +55,26 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#29** - 18/07/22 - `ORDENA LA LISTA`
 * **#30** - 26/07/22 - `MARCO DE PALABRAS`
 * **#31** - 01/08/22 - `AÑOS BISIESTOS`
-* **#32** - 08/08/22 - `Publicación nuevo reto...`
+* **#32** - 08/08/22 - `EL SEGUNDO`
+* **#33** - 15/08/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-*Corección retos del 0 al 4 en vídeo*
+*Corrección retos del 0 al 4 en vídeo*
 
 <a href="https://youtu.be/Y_Gej0lbfD0"><img src="http://i3.ytimg.com/vi/Y_Gej0lbfD0/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-*Corección retos del 5 al 10 en vídeo*
+*Corrección retos del 5 al 10 en vídeo*
 
-Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kotlin ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
-
-> Cada lunes corrección en directo desde Twitch del reto semanal.
-
-[![Retos Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Repositorio%20público%20retos%20Kotlin/Android&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-
-[![Retos Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Repositorio%20público%20retos%20Swift/iOS&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
+Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Swift ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
 ## Retos mensuales 2022
+
+> Cada mes corrección en directo desde Twitch del reto semanal.
+> 
+> Sorteo de premio entre l@s participantes.
+
+[![Retos mensuales](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Repositorio%20retos%20mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
 <a href="https://youtu.be/TSMFijaJwpE"><img src="http://i3.ytimg.com/vi/TSMFijaJwpE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -84,12 +90,6 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Swift y Kot
 * **Julio** - 28/06/22 - `LECTOR RSS`
 * **Agosto** - 02/08/22 - `FIREBASE CHAT`
 * **Septiembre** 30/08/22 - `Publicación nuevo reto...`
-
-> Cada mes corrección en directo desde Twitch del reto semanal.
-> 
-> Sorteo de premio entre l@s participantes.
-
-[![Retos mensuales](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Repositorio%20público%20retos%20mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
 ---
 
@@ -107,8 +107,9 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 3 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
 ### En mi perfil de GitHub tienes más información
 
