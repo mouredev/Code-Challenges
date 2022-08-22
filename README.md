@@ -62,7 +62,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#31** - 01/08/22 - [`AÑOS BISIESTOS`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge31.kt)
 * **#32** - 08/08/22 - [`EL SEGUNDO`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge32.kt)
 * **#33** - 15/08/22 - [`CICLO SEXAGENARIO CHINO`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge33.kt)
-* **#34** - 22/08/22 - `Publicación nuevo reto...`
+* **#34** - 22/08/22 - [`LOS NÚMEROS PERDIDOS`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge34.kt)
+* **#35** - 29/08/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -71,6 +72,10 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 <a href="https://youtu.be/Y_Gej0lbfD0"><img src="http://i3.ytimg.com/vi/Y_Gej0lbfD0/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 *Corrección retos del 5 al 10 en vídeo*
+
+<a href="https://youtu.be/YPdhP60Tt08"><img src="http://i3.ytimg.com/vi/YPdhP60Tt08/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+*Corección retos del 11 al 20 en vídeo*
 
 Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Swift ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
