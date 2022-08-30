@@ -104,8 +104,9 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Sw
 * **Mayo** - 03/05/22 - [`JUEGO DE MEMORIA`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto05.md)
 * **Junio** - 31/05/22 - [`CLONANDO TWITTER`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto06.md)
 * **Julio** - 28/06/22 - [`LECTOR RSS`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto07.md)
-* **Agosto** - 02/08/22 - [`FIREBASE CHAT`](https://bit.ly/3vyk6ap)
-* **Septiembre** 30/08/22 - `Publicación nuevo reto...`
+* **Agosto** - 02/08/22 - [`FIREBASE CHAT`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto08.md)
+* **Septiembre** - 30/08/22 - [`HACKATHON DÍA DE LA PROGRAMACIÓN`](https://diadelaprogramacion.com)
+* **Octubre** - 29/09/22 - `Publicación nuevo reto...`
 
 ---
 
