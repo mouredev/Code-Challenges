@@ -1,47 +1,20 @@
-presentacion = """
+def Triangulo(base:int, altura: int) -> int:
+    return f"{base * altura / 2} area del Triangulo" 
 
-|*****************************************************************|
-|    Hola!, si esta aqui es porque esta interesado en aprender.   |
-|---------------------------------------------------------------- | 
-|   		¿De que poligono te gustaria saber su area?.          |
-|-----------------------------------------------------------------|
-|																  |
-|	           	1. Triangulo 									  |
-|      	        2. Cuadrado										  |
-|        	    3. Rectangulo								      |
-|																  |
-|																  |
-|-----------------------------------------------------------------|
-    """
-    
-def area():
-	"""
-	"""
-	print(presentacion)
- 
-	opcion = int(input("Opcion: "))
- 
-	if opcion == 1:
-		base = int(input("Elige lan la Base y altur.\n  Base: "))
-		altura = int(input("Altura: "))
-		return print(f" area {base * altura / 2} del Triangulo")
+def Rectagulo(base:int, altura: int) -> int:
+    return f"{base * altura} area del Rectangulo" 
 
-	elif opcion == 2:
-		altura = int(input("Elige lan la Base y altur.\n  altura: "))
-		return  print(f" area {altura**2} del Cuadrado")
+def Cuadrado(Lado: int) -> int:
+    return f"{Lado**2} area del Cuadrado" 
 
-	elif opcion == 3:
-		base = int(input("Elige lan la Base y altur.\n  Base: "))
-		altura = int(input("Altura: "))
-		return  print(f" area {base * altura } del Rectangulo")
-
-	else: 
-		print(f"({opcion}) no exite :(")
+def area(poligono) -> int:
+    return print(poligono)
 
 def main():
-	area()
-
-
-
+    area(Triangulo(3, 5))
+    area(Cuadrado(7))
+    area(Rectagulo(10, 4))
+    
+    
 if __name__ == "__main__":
     main()
