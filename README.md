@@ -118,7 +118,7 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Sw
 * **Agosto** - 02/08/22 - [`FIREBASE CHAT`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto08.md)
 * **Septiembre** - 30/08/22 - [`HACKATHON DÍA DE LA PROGRAMACIÓN`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto09.md)
 * **Octubre** - 29/09/22 - [`CONVERSOR DE UNIDADES`](https://bit.ly/3dQMNcI)
-* **Noviembre** - 27/10/22 - `Publicación nuevo reto...`
+* **Noviembre** - 26/10/22 - `Publicación nuevo reto...`
 
 ---
 
