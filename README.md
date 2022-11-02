@@ -72,7 +72,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#41** - 10/10/22 - [`LA LEY DE OHM`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge41.kt)
 * **#42** - 17/10/22 - [`CONVERSOR DE TEMPERATURA`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge42.kt)
 * **#43** - 24/10/22 - [`TRUCO O TRATO`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge43.kt)
-* **#44** - 02/11/22 - `Publicación nuevo reto...`
+* **#44** - 02/11/22 - [`BUMERANES`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge44.kt)
+* **#45** - 07/11/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
