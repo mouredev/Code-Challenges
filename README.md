@@ -76,7 +76,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#45** - 07/11/22 - [`CONTENEDOR DE AGUA`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge45.kt)
 * **#46** - 14/11/22 - [`¿DÓNDE ESTÁ EL ROBOT?`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge46.kt)
 * **#47** - 21/11/22 - [`VOCAL MÁS COMÚN`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge47.kt)
-* **#48** - 28/11/22 - `Publicación nuevo reto...`
+* **#48** - 28/11/22 - [`EL CALENDARIO DE ADEVIENTO 2022`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge48.kt)
+* **#49** - 05/12/22 - `Publicación nuevo reto...`
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -97,6 +98,10 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 <a href="https://youtu.be/8-IOU3Qlgws"><img src="http://i3.ytimg.com/vi/8-IOU3Qlgws/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 *Corección retos del 31 al 40 en vídeo*
+
+<a href="https://youtu.be/LpnVqgonptI"><img src="http://i3.ytimg.com/vi/LpnVqgonptI/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+*Corección retos del 41 al 46 en vídeo*
 
 Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Swift ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
