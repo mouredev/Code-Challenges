@@ -80,7 +80,8 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * **#49** - 05/12/22 - [`EL DETECTOR DE HANDLES`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge49.kt)
 * **#50** - 12/12/22 - [`LA ENCRIPTACIÓN DE KARACA`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge50.kt)
 * **#51** - 19/12/22 - [`EL RETO RANDOM`](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge51.kt)
-* **FIN** - 26/12/22 - `Presentación de los retos de programación semanales para 2023`
+
+> **[🆕ACCEDE A LOS NUEVOS RETOS SEMANALES PARA 2023](https://github.com/mouredev/retos-programacion-2023)**
 
 <a href="https://youtu.be/ydH_B5KuqGs"><img src="http://i3.ytimg.com/vi/ydH_B5KuqGs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -105,6 +106,10 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 <a href="https://youtu.be/LpnVqgonptI"><img src="http://i3.ytimg.com/vi/LpnVqgonptI/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 *Corección retos del 41 al 46 en vídeo*
+
+<a href="https://youtu.be/nOrqQcHUhxc"><img src="http://i3.ytimg.com/vi/nOrqQcHUhxc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+*Corección retos del 47 al 51 en vídeo*
 
 Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Swift ya que yo realizo las soluciones en estos lenguajes, pero puedes utilizar estos proyectos para aportar tus propias soluciones en el lenguaje que prefieras.
 
