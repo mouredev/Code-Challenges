@@ -139,7 +139,7 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Sw
 * **Septiembre** - 30/08/22 - [`HACKATHON DÍA DE LA PROGRAMACIÓN`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto09.md)
 * **Octubre** - 29/09/22 - [`CONVERSOR DE UNIDADES`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto10.md)
 * **Noviembre** - 26/10/22 - [`BUON APPETITO`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto11.md)
-* **Diciembre** - 30/11/22 - [`LA DEVSTORE`](https://github.com/mouredev/Monthly-App-Challenge-2022)
+* **Diciembre** - 30/11/22 - [`LA DEVSTORE`](https://github.com/mouredev/Monthly-App-Challenge-2022/blob/main/SolucionesReto12.md)
 
 ---
 
