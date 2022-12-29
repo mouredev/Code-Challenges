@@ -12,13 +12,19 @@ Participa en los retos que realizamos semana a semana y mes a mes para mejorar n
 * Consulta de las soluciones de la comunidad.
 * **¡Y PUEDES USAR CUALQUIER LENGUAJE!**
 
-## Retos semanales 2022
+## 🆕 Retos semanales 2023
+
+![https://retosdeprogramacion.com/semanales2023](https://raw.githubusercontent.com/mouredev/retos-programacion-2023/main/Images/header.jpg)
 
 > Cada lunes corrección en directo desde Twitch del reto semanal.
 
-[![Retos Semanales](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Repositorio%20retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+[![Retos Semanales](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Repositorio%20retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
 
-[![Retos Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Repositorio%20retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
+## Retos semanales 2022
+
+[![Retos Semanales](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Repositorio%20retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+
+[![Retos Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Repositorio%20retos%20Semanales%20en%20Swift%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
 <a href="https://youtu.be/14v4IINunvY"><img src="http://i3.ytimg.com/vi/14v4IINunvY/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -115,11 +121,7 @@ Como decía, puedes usar **cualquier lenguaje**. Son repositorios en Kotlin y Sw
 
 ## Retos mensuales 2022
 
-> Cada mes corrección en directo desde Twitch del reto semanal.
-> 
-> Sorteo de premio entre l@s participantes.
-
-[![Retos mensuales](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Repositorio%20retos%20mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+[![Retos mensuales](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Repositorio%20retos%20mensuales%202022&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
 <a href="https://youtu.be/TSMFijaJwpE"><img src="http://i3.ytimg.com/vi/TSMFijaJwpE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
